@@ -7,7 +7,7 @@ Trabalho 02 da disciplina de IA, no qual iremos analisar posts dos usuários bra
 - João Francisco Caprioli Barbosa Camargo de Pinho - NUSP
 - Tulio Santana Ramos - NUSP
 - Natan Bernardi Cerdeira - NUSP
-- Felipe Henrique de Oliveira - NUSP
+- Felipe Henrique de Oliveira - NUSP 11272811
 
 
 ## Descrição
