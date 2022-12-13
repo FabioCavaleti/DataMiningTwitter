@@ -6,7 +6,7 @@ Trabalho 02 da disciplina de IA, no qual iremos analisar posts dos usuários bra
 - Marcus Vinícius Teixeira Huziwara - NUSP (vice-lider)
 - João Francisco Caprioli Barbosa Camargo de Pinho - NUSP
 - Tulio Santana Ramos - NUSP
-- Natan Bernardi Cerdeira - NUSP
+- Natan Bernardi Cerdeira - 11218984
 - Felipe Henrique de Oliveira - NUSP 11272811
 
 
